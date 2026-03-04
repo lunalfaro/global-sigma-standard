@@ -1,4 +1,4 @@
-# Global Sigma v3.1
+# Global Sigma
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Research Validation](https://img.shields.io/badge/Status-Research%20Edition%202026--2027-yellow)](https://github.com/lunalfaro/global-sigma-standard)
@@ -14,12 +14,12 @@ Consolidating EU AI Act, NIST RMF, OECD, UNESCO, and ISO/IEC into 12 operational
 
 ## 📚 Repository Contents
 
-| File | Description |
-|------|-------------|
-| [`/standard/GLOBAL_SIGMA_RESEARCH_EDITION.pdf`](/standard) | The complete framework (P1-P12, Risk Tiers, Audit Methodology) |
-| [`/tools/GLOBAL_SIGMA_A_Self_Assessment_Tool.md`](/tools) | Editable matrix for self-evaluation against the 12 principles |
-| [`/annexes/Executive_Summary_EN_ES.md`](/annexes) | Bilingual 1-pager for decision-makers |
-| [`/annexes/Immutability_Patterns_Guide.md`](/annexes) | Technical patterns for forensic-proof certification (Annex G) |
+| File                                                                                                    | Description                                                    |
+| :-------------------------------------------------------------------------------------------------------| :------------------------------------------------------------- |
+| [📄 GLOBAL_SIGMA_RESEARCH_EDITION.pdf](./GLOBAL_SIGMA_PUBLIC_STANDARD_RESEARCH_EDITION.pdf)             | The complete framework (P1-P12, Risk Tiers, Audit Methodology) |
+| [🛠️ Self Assessment Tool](./tools/GLOBAL_SIGMA_PUBLIC_STANDARD_Annex_A_Self_Assessment_Tool)            | Editable matrix for self-evaluation against the 12 principles |
+| [📋 Executive Summary (EN/ES)](./annexes/GLOBAL_SIGMA_PUBLIC_STANDARD_Executive_Summary_EN_ES.pdf)      | Bilingual 1-pager for decision-makers |
+| [🔗 Immutability Patterns Guide](./annexes/GLOBAL_SIGMA_PUBLIC_STANDARD_Immutability_Pattern_Guide.pdf) | Technical patterns for forensic-proof certification (Annex G) |
 
 ## 🚀 Quick Start
 
