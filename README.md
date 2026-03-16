@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Global Sigma
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18866997.svg)](https://doi.org/10.5281/zenodo.18866997)
@@ -51,4 +50,3 @@ If you reference this work in academic or professional papers, please use:
 This is a **Research Validation Edition**. Feedback and validation studies are welcome via:
 - GitHub Issues
 - Pull Requests (referencing the Task ID system in Annex L)
-EOF
